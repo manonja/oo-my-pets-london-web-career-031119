@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/LICENSE.md	/^# Learn.co Educational Content License$/;"	function	line:1
+My Pets	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/README.md	/^# My Pets$/;"	function	line:1
+Objective	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/README.md	/^## Objective$/;"	function	line:3
+Instructions	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:9
+Overview	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/README.md	/^### Overview$/;"	function	line:14
+Part I: Object Models	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/README.md	/^### Part I: Object Models$/;"	function	line:22
+Part II: Object Relations	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/README.md	/^### Part II: Object Relations$/;"	function	line:30
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:8
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:16
+Why Contribute?	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:28
+Fish	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/lib/fish.rb	/^class Fish$/;"	class	line:1
+Dog	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/lib/dog.rb	/^class Dog$/;"	class	line:1
+Owner	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/lib/owner.rb	/^class Owner$/;"	class	line:1
+Cat	/Users/manon/Development/code/oo-my-pets-london-web-career-031119/lib/cat.rb	/^class Cat$/;"	class	line:1
